@@ -1,0 +1,1 @@
+# Widget for showing list of examinations
